@@ -22,4 +22,4 @@ I have never done nor supported any criminal hacking. I have never hacked anyone
 
 ### Have I written malware?
 
-Yes, I have written a few viruses. You can find one of the repositories of these in my github account.
+Yes, I have written a few viruses. You can find the repository of one such virus in my github account.
