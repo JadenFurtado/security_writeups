@@ -1,6 +1,6 @@
 # Anima Creatives management
 
-The time I hacked a modelling agency. In all fairness, I tried my best to get the attention of the agencies involved here as well as people(well, just one person really, if you know, you know. It was hilarious, LOL 😆😅😂😭😬(inside joke)) I knew who work for/with them. 
+The time I hacked a modelling agency. In all fairness, I tried my best to get the attention of the agencies involved here as well as people I knew who work for/with them.(well, just one person really, if you know, you know. It was hilarious, LOL 😆😅😂😭😬(inside joke)) 
 Only when they did not respond to my mails/messages and all other options that I tried failed, I decided to go ahead and exploit the vulnerabilities to get it to their attention so as to fix the flaws.
 
 ## Basic gist of the hack:
