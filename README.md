@@ -1,11 +1,11 @@
 # security_writeups
 Only those security writeups that I am allowed to put out.
 
-The bet: https://github.com/JadenFurtado/security_writeups/tree/main/the_bet
+### The bet: https://github.com/JadenFurtado/security_writeups/tree/main/the_bet
 
-Anima creatives: https://github.com/JadenFurtado/security_writeups/tree/main/anima_creatives
+### Anima creatives: https://github.com/JadenFurtado/security_writeups/tree/main/anima_creatives
 
-The medical company: https://github.com/JadenFurtado/security_writeups/tree/main/the%20medical%20company
+### The medical company: https://github.com/JadenFurtado/security_writeups/tree/main/the%20medical%20company
 
 ## Just a few FAQs:
 
