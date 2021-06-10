@@ -28,6 +28,6 @@ No. I have never done nor supported any criminal hacking. I have never hacked an
 
 Yes, I have written a few viruses. You can find the repository of one such virus in my github account.
 
-### Am I open to working with companies/corporations?
+### Am I open to pentesting for your company/corporation?
 
 Sure. Let's trade emails!
