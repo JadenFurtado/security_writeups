@@ -15,3 +15,8 @@ I do this because I can and for fun. I try not to do this for profit or for any 
 
 I am not the best or an expert at any of this. I love technology and computers and maths and well, just problem solving in general. I want to learn and pickup whatever I can, whenever I can. All I want to do is to become better at what I do, be it maths, developing software or even cyber security.  
 
+### Have I ever committed a cybercrime?
+
+No, I have never hacked anyone or any company to cause them harm. I have always responsibly disclosed all the vulnerabilities that I have found till date. I have never asked a company for money to disclose a vulnerability and never held anyone to ransom over a vulnerability. I have never done nor supported any criminal hacking.
+
+### Am I open to pentesting for companies?s
