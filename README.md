@@ -17,6 +17,6 @@ I am not the best or an expert at any of this. I love technology and computers a
 
 ### Have I ever committed a cybercrime?
 
-No, I have never hacked anyone or any company to cause them harm. I have always responsibly disclosed all the vulnerabilities that I have found till date. I have never asked a company for money to disclose a vulnerability and never held anyone to ransom over a vulnerability. I have never done nor supported any criminal hacking.
+I have never done nor supported any criminal hacking. No, I have never hacked anyone or any company to cause them harm. I have always responsibly disclosed all the vulnerabilities that I have found till date. I have never asked a company for money to disclose a vulnerability and never held anyone to ransom over a vulnerability. 
 
 ### Am I open to pentesting for companies?s
