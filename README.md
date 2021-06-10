@@ -3,6 +3,10 @@ A list of all the security writeups from my work as a security researcher that I
 
 ## Just a few FAQs:
 
+### Am I real hacker or just a script kiddie?
+
+Well, I am no one to call myself a real hacker, but I am most certainly no script kiddie. I know the theory behind everything that I do. I occasionally use tools like SQLmap, Metasploit, Burp, etc… when manual testing is too tiresome. But I prefer to write and develop my own tools, generally in python(all those libraries, they make development easy!). 
+
 ### What do I hack and what can I hack?
 
 I am currently into hacking websites, servers and web-based technologies. That being said, I can hack pretty much anything that runs on a computer or has a computer. 
