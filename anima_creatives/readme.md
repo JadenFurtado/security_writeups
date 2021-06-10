@@ -6,8 +6,7 @@ Only when they did not respond to my mails and all other options that I tried fa
 ## Basic gist of the hack:
 The website used a REST API to display images of the models. However, the inputs were not sanitized and this allowed me inject SQL into the website. I was able to extract the usernames and passwords from the database. The passwords were hased using the Md5 algorithm. I was able to reverse the hash using a rainbow table and log in as admin. 
 
-### However, this is not all.
-I have not included this in the writeup.
+### However, this is not all. I have not included this section in the writeup.
 
 The director of anima asked me not to include their name in the writeup. However, I think it's only fair that I do it, for the following reason.
 
