@@ -4,7 +4,7 @@ The time I hacked a modelling agency. In all fairness, I tried my best to get th
 Only when they did not respond to my mails and all other options that I tried failed, I decided to go ahead and exploit the vulnerabilities to get it to their attention so as to fix the flaws.
 
 ## Basic gist of the hack:
-The website used a REST API to display images of the models. However, the inputs were not sanitized and this allowed me inject SQL into the website. I was able to extract the usernames and passwords from the database. The passwords were hased using the Md5 algorithm. I was able to reverse the hash using a rainbow table and log in as admin. 
+The website used a REST API to display images of the models. However, the inputs were not sanitized and this allowed me inject SQL into the website. I was able to extract the usernames and passwords from the database. The passwords were hased using the Md5 algorithm. I was able to reverse the hash using a rainbow table and log in as admin. ### Ofcource, these are now fixed and Md5 is no longer being used!
 
 ### However, this is not all. I have not included this section in the writeup.
 
