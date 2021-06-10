@@ -18,3 +18,4 @@ I am not the best or an expert at any of this. I love technology and computers a
 ### Have I ever committed a cybercrime?
 
 I have never done nor supported any criminal hacking. I have never hacked anyone or any company to cause them harm. I have always responsibly disclosed all the vulnerabilities that I have found till date. I have never asked a company for money to disclose a vulnerability and never held anyone to ransom over a vulnerability. 
+### Not all hackers are criminals 
