@@ -14,3 +14,7 @@ I then saw that they had not closed off a lot of the ports and so I decided to t
 <img src="https://github.com/JadenFurtado/security_writeups/blob/main/the%20medical%20company/cmd.png" />
 
 I happened to trip a security alarm while snooping around in their server, and well, things happened.... 
+
+# Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/the%20medical%20company/case%20study_3.pdf
+
+
