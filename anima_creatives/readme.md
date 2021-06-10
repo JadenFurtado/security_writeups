@@ -12,6 +12,8 @@ The website used a REST API to display images of the models. However, the inputs
 
 ### Ofcource, these are now fixed and Md5 is no longer being used!
 
+## Full writeup:https://github.com/JadenFurtado/security_writeups/blob/main/anima_creatives/anima_case_study.pdf
+
 ### However, this is not all. I have not included this section in the writeup. Bit of a rant coming up!
 
 Though the API endpoints are now being sanitized, and an SQL injection is no longer possible, the site as a whole is still insecure. There are still vulnerabilities(I have not included these in the writeup) that have not been fixed till date. I have been begging them to fix the issues for well over 2 years now (It goes way back to 2019. I did not even ask for something silly like money/bug-bounty or a hall of fame, btw, I openly told them all the flaws and they didn't have the decency to respond to me, or acknowledge my mails even once) and so, if anyone from Anima is reading this, fix your website and reply to mails!
