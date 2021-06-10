@@ -24,6 +24,10 @@ I am not the best or an expert at any of this. I love technology and computers a
 No. I have never done nor supported any criminal hacking. I have never hacked anyone or any company to cause them harm. I have always responsibly disclosed all the vulnerabilities that I have found till date. I have never asked a company for money to disclose a vulnerability and never held anyone to ransom over a vulnerability. 
 ### Not all hackers are criminals 
 
+### Why am I putting these writeups out here?
+
+To be honest, I am the kind of guy who is generally shy and who does not like any publicity. However, I have found that it helps me improve myself, when I have other, more experienced people critique my work, especially in hacking.
+
 ### Have I written malware?
 
 Yes, I have written a few viruses. You can find the repository of one such virus in my github account.
