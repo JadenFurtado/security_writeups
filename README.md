@@ -13,5 +13,5 @@ I do this because I can and for fun. I try not to do this for profit or for any 
 
 ### How good am I?
 
-I am not the best or an expert at any of this. I love technology and computers and maths and well, just problem solving in general. All I want to do is to become better at what I do, be it maths, developing software or even cyber security .  
+I am not the best or an expert at any of this. I love technology and computers and maths and well, just problem solving in general. I want to learn and pickup whatever I can, whenever I can. All I want to do is to become better at what I do, be it maths, developing software or even cyber security.  
 
