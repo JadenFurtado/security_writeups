@@ -1,5 +1,6 @@
 # security_writeups
 Only those security writeups that I am allowed to put out.
+Note: These represent part and part of all the hacking that I have done. The rest I can't put out as I am bound by NDAs.
 
 ## My writeups:
 
