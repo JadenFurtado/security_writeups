@@ -24,4 +24,4 @@ Though the API endpoints are now being sanitized, and an SQL injection is no lon
 ### 6th Nov 2019, Since I got no response, I decided to get the attention of a mutual contact and try and get her to communicate for me
 ### 23rd Jan 2021, I decide to revisit Anima, vulnerabilities still not fixed and an XSS vulnerability is discovered. Anima and Hepta are informed, Hepta finally replies that they will check my messages out but does nothing
 ### 8th Feb 2021, while poking about the site, I end up getting username and password and login as admin
-### 10th Feb 2021, anima is informed again, this time with the new findings. They fix the vulnerabilities, but don't respond to my mails!
+### 10th Feb 2021, anima is informed again, this time with the new findings. They finally fix the vulnerabilities, but again don't respond to my mails!
