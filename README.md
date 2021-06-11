@@ -1,6 +1,4 @@
-# security_writeups
-
-## My hacking career:
+# My hacking career:
 
 ![Alt text](https://github.com/JadenFurtado/JadenFurtado/blob/main/istockphoto-502860430-612x612.jpg?raw=true)
 
