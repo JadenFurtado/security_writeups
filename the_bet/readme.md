@@ -15,3 +15,10 @@ This is among the more interesting hacks that I have done till date. Why? Becaus
 ### logging in without a valid account:
 
 <img src="https://github.com/JadenFurtado/security_writeups/blob/main/the_bet/e.jpg" />
+
+## timeline:
+
+### 19th April 2021, 13:03 : My friend challanges me to hack the company at which his dad works
+### 19th April 2021, 23:00 : I break into the website thanks to a buisness logic error. Company website under my control
+### 19th April 2021, 23:10 : I inform my friend about the flaw
+### As of today, the flaw is still not fixed. 🙅
