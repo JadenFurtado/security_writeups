@@ -19,6 +19,7 @@ This is among the more interesting hacks that I have done till date. Why? Becaus
 ## timeline:
 
 ### 19th April 2021, 13:03 : My friend challanges me to hack the company at which his dad works
-### 19th April 2021, 23:00 : I break into the website thanks to a buisness logic error. Company website under my control
+### 19th April 2021, 22:00 : Challange accepted!😉
+### 19th April 2021, 23:00 : I break into the website thanks to a buisness logic error. Company's website and effectively the company is under my control 😤
 ### 19th April 2021, 23:10 : I inform my friend about the flaw
 ### As of today, the flaw is still not fixed. 🙅
