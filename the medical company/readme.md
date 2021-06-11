@@ -17,4 +17,9 @@ I happened to trip a security alarm while snooping around in their server, and w
 
 ## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/the%20medical%20company/case%20study_3.pdf
 
+## timeline:
 
+### 5th May 2021: Picked a target and decided to hack
+### 2nd June 2021: Posted what you'll want me to do, build or hack, hacking it is!
+### some time later in June 2021: Bruteforced SSH and ended up tripping an alarm and intrusion detected
+### Unbanned from the website and my intrusion is cleared from their networks
