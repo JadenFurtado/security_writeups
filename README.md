@@ -49,4 +49,4 @@ Yes, I have written a few viruses. You can find the repository of one such virus
 
 ### Am I open to pentesting for your company/corporation?
 
-Sure. Let's trade emails!
+Sure. Let's trade emails! Contact me at furtadojaden@gmail.com  .
