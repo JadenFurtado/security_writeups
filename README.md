@@ -1,6 +1,8 @@
 # security_writeups
 Only those security writeups that I am allowed to put out.
 
+## My writeups:
+
 ### The bet: https://github.com/JadenFurtado/security_writeups/tree/main/the_bet
 
 ### Anima creatives: https://github.com/JadenFurtado/security_writeups/tree/main/anima_creatives
