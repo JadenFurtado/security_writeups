@@ -6,7 +6,7 @@ Long story short. A friend of mine challenged me to hack the company at which hi
 The website belongs to a diamond trading agency. I was able to exploit a business logic error and take over the company’s website and effectively the company itself.
 This is among the more interesting hacks that I have done till date. Why? Because at 1st glance, everything seems fine with the website, that is, until you notice the flaw. Done for fun, not for profit.
 
-## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/the_bet/Case%20Study_2.0.pdf
+## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/the_bet/Case%20Study_2.pdf
 
 ### Trolling the company:
 
