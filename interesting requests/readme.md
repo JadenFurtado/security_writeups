@@ -2,24 +2,19 @@
 
 ## Inroduction:
 
-Long story short. A friend of mine challenged me to hack the company at which his dad was working. So, I obliged. 
-The website belongs to a diamond trading agency. I was able to exploit a business logic error and take over the company’s website and effectively the company itself.
-This is among the more interesting hacks that I have done till date. Why? Because at 1st glance, everything seems fine with the website, that is, until you notice the flaw. Done for fun, not for profit.
+Was looking for an internship on Internshala when I came across RISEE’s website. I decided to check their site out and it became apparent that they have a few flaws. On investigating further, I saw that they have a leaking API. I was able to successfully log in as another user thanks to exposed user id’s and user refresh tokens. 
 
-## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/the_bet/Case%20Study_2.pdf
+## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/intersting%20requests/Interesting%20requests.pdf
 
-### Trolling the company:
+### The admin's account:
 
 <img src="https://github.com/JadenFurtado/security_writeups/blob/main/the_bet/c.jpg" />
 
-### logging in without a valid account:
-
-<img src="https://github.com/JadenFurtado/security_writeups/blob/main/the_bet/e.jpg" />
-
 ## timeline:
 
-### 19th April 2021, 13:03 : My friend challanges me to hack the company at which his dad works
-### 19th April 2021, 22:00 : Challange accepted!😉
-### 19th April 2021, 23:00 : I break into the website thanks to a buisness logic error. Company's website and effectively the company is under my control 😤
-### 19th April 2021, 23:10 : I inform my friend about the flaw
-### As of today, the flaw is still not fixed. 🙅
+### 7th June 2021, 17:00 : Looking for an internship on internshala, I come across an internship from RISEE an decide to visit their site
+### 7th June 2021, 18:30 : I discover that they have a leaking API, but can't think of how to exploit it. Got an exam the next day, so have to study and put it at the back of my mind.
+### 8th June 2021, 21:30 : I revisit RISEE. I decide not to inform them until I have a working POC. I intercepted their server requests using Burp and modify them
+### 8th June 2021, 22:00 : I have logged in as a user of their site
+### 8th June 2021, 22:10 : I have logged in as admin
+### 8th June 2021, 00:23 : I write a mail to RISEE informing them of my findings.
