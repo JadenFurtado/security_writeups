@@ -8,7 +8,7 @@ Was looking for an internship on Internshala when I came across RISEE’s websit
 
 ### The admin's account:
 
-<img src="https://github.com/JadenFurtado/security_writeups/blob/main/the_bet/c.jpg" />
+<img src="https://github.com/JadenFurtado/security_writeups/blob/main/interesting%20requests/risee_profile.png" />
 
 ## timeline:
 
