@@ -16,6 +16,8 @@ Note: These represent PART and only PART of all the hacking that I have done. Th
 
 ### The medical company: https://github.com/JadenFurtado/security_writeups/tree/main/the%20medical%20company
 
+## Interesting requests: https://github.com/JadenFurtado/security_writeups/tree/main/interesting%20requests
+
 ## Just a few FAQs:
 
 ### Am I real hacker or just a script kiddie?
