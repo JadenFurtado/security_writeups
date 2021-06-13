@@ -3,7 +3,7 @@
 ## Inroduction:
 
 Was looking for an internship on Internshala when I came across RISEE’s website. I decided to check their site out and it became apparent that they have a few flaws. On investigating further, I saw that they have a leaking API. I was able to successfully log in as another user thanks to exposed user id’s and user refresh tokens. 
-## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/the_bet/Case%20Study_2.pdf
+## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/intersting%20requests/Interesting%20requests.pdf
 
 ### Trolling the company:
 
