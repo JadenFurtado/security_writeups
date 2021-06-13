@@ -2,10 +2,7 @@
 
 ## Inroduction:
 
-Long story short. A friend of mine challenged me to hack the company at which his dad was working. So, I obliged. 
-The website belongs to a diamond trading agency. I was able to exploit a business logic error and take over the company’s website and effectively the company itself.
-This is among the more interesting hacks that I have done till date. Why? Because at 1st glance, everything seems fine with the website, that is, until you notice the flaw. Done for fun, not for profit.
-
+Was looking for an internship on Internshala when I came across RISEE’s website. I decided to check their site out and it became apparent that they have a few flaws. On investigating further, I saw that they have a leaking API. I was able to successfully log in as another user thanks to exposed user id’s and user refresh tokens. 
 ## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/the_bet/Case%20Study_2.pdf
 
 ### Trolling the company:
