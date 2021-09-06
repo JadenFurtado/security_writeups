@@ -12,7 +12,7 @@ The website used a REST API to display images of the models. However, the inputs
 
 ### Ofcource, these are now fixed and Md5 is no longer being used!
 
-## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/anima_creatives/anima_case_study.pdf
+## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/the_creatives/anima_case_study.pdf
 
 ### However, this is not all. I have not included this section in the writeup. Bit of a rant coming up!
 
