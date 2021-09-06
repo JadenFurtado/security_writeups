@@ -12,7 +12,7 @@ The website used a REST API to display images of the models. However, the inputs
 
 ### Ofcource, these are now fixed and Md5 is no longer being used!
 
-## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/the_creatives/Case Study-edit.pdf
+## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/the_creatives/Case%20Study-edit.pdf
 
 ### However, this is not all. I have not included this section in the writeup. Bit of a rant coming up!
 
