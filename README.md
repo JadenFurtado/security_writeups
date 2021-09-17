@@ -12,7 +12,7 @@ Note: These represent PART and only PART of all the hacking that I have done. Th
 
 ### The bet: https://github.com/JadenFurtado/security_writeups/tree/main/the_bet
 
-### Anima creatives: https://github.com/JadenFurtado/security_writeups/tree/main/anima_creatives
+### Anima creatives: https://github.com/JadenFurtado/security_writeups/tree/main/the_creatives
 
 ### The medical company: https://github.com/JadenFurtado/security_writeups/tree/main/the%20medical%20company
 
