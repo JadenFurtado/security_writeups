@@ -34,7 +34,7 @@ I am not the best or an expert at any of this. Just learning and picking up ever
 
 ### Have I ever committed a cybercrime?
 
-No. I have never done nor supported any criminal hacking. I have never hacked anyone or any company to cause them harm. I have always responsibly disclosed all the vulnerabilities that I have found till date. I have never asked a company for money to disclose a vulnerability and never held anyone to ransom over a vulnerability. 
+No. I have never done nor supported any criminal hacking. I have never hacked anyone or any company to cause them harm and have always responsibly disclosed all the vulnerabilities that I have found till date. I have never asked for money to disclose a vulnerability and never held anyone to ransom. 
 ### Not all hackers are criminals 
 
 ### Why am I putting these writeups out here?
@@ -47,4 +47,4 @@ Yes, I have written a few viruses. You can find the repository of one such virus
 
 ### Am I open to pentesting for your company/corporation?
 
-Sure. Let's trade emails! Contact me at furtadojaden@gmail.com  .
+Cyrrently I am working with R.U.D.R.A. secure( https://rudrasecure.com/ ), a cybersecurity startup, based in Mumbai. But yes, Sure. Let's trade emails! Contact me at furtadojaden@gmail.com  .
