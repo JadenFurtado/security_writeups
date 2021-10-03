@@ -2,11 +2,7 @@
 
 ![Alt text](https://github.com/JadenFurtado/JadenFurtado/blob/main/giphy.gif?raw=true)
 
-I have always found hacking as an escape from stress and pressure, where I get to write the rules and others play by them. Also, it is really cute to see peoples reactions when they ask me what I do in my past time! Goes without saying, I have never used my skills to cause anyone damage or harm in anyway. I have hacked numerous websites for fun and to pass time. I have done everything from SQL injections, XSS, CSRFs to exploiting business logic errors and I have taken down quite a few corporations (I can’t name any, given my NDAs with said corporations) software and websites.
-
-Only those security writeups that I am allowed to put out.
-
-Note: These represent PART and only PART of all the hacking that I have done. The rest I can't put out as I am bound by NDAs.
+I have always found hacking as an escape from stress and pressure, where I get to write the rules and others play by them. Also, it is really cute to see peoples reactions when they ask me what I do in my past time! Goes without saying, I have never used my skills to cause anyone damage or harm in anyway. I have hacked numerous websites as part of pen tests, for fun and to pass time. I have done everything from SQL injections, XSS, CSRFs to exploiting business logic errors and I have taken down quite a few corporations (I can’t name any, given my NDAs with said corporations) software and websites.
 
 ## My writeups:
 
@@ -34,11 +30,11 @@ I do this because I can and for fun. I try not to do this for profit or for any 
 
 ### How good am I?
 
-I am not the best or an expert at any of this. I love technology and computers and maths and well, just problem solving in general. I want to learn and pickup whatever I can, whenever I can. All I want to do is to become better at what I do, be it maths, developing software or even cyber security.  
+I am not the best or an expert at any of this. Just learning and picking up everything that I can
 
 ### Have I ever committed a cybercrime?
 
-No. I have never done nor supported any criminal hacking. I have never hacked anyone or any company to cause them harm. I have always responsibly disclosed all the vulnerabilities that I have found till date. I have never asked a company for money to disclose a vulnerability and never held anyone to ransom over a vulnerability. 
+No. I have never done nor supported any criminal hacking. I have never hacked anyone or any company to cause them harm and have always responsibly disclosed all the vulnerabilities that I have found till date. I have never asked for money to disclose a vulnerability and never held anyone to ransom. 
 ### Not all hackers are criminals 
 
 ### Why am I putting these writeups out here?
@@ -51,4 +47,4 @@ Yes, I have written a few viruses. You can find the repository of one such virus
 
 ### Am I open to pentesting for your company/corporation?
 
-Sure. Let's trade emails! Contact me at furtadojaden@gmail.com  .
+Cyrrently I am working with R.U.D.R.A. secure( https://rudrasecure.com/ ), a cybersecurity startup, based in Mumbai. But yes, Sure. Let's trade emails! Contact me at furtadojaden@gmail.com  .
