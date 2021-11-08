@@ -27,6 +27,8 @@ Two types of ARP attacks exist.
 - ARP spoofing: A hacker sends fake ARP packets that link an attacker's MAC address with an IP of a computer already on the LAN. 
 - ARP poisoning: After a successful ARP spoofing, a hacker changes the company's ARP table, so it contains falsified MAC maps. The contagion spreads.
 
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ARP_Spoofing.svg/1200px-ARP_Spoofing.svg.png)
+
 The goal is to link a hacker's MAC with the LAN. The result means any traffic sent to the compromised LAN will head to the attacker instead. Effectively this is like a man in the middle attack.
 
 ## What can a successful APR poisoning result in?
