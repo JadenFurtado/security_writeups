@@ -7,9 +7,11 @@ Just a writeup on ARP poisoning, based on everything that I know and have studie
 
 ## What is ARP?
 ARP is short for address resolution protocol. It is generally used by the IPv4 protocol. As the name suggests, it is used to convert the IP address of a machine to it's MAC address. 
+
 ![alt text](https://cdn.slidesharecdn.com/ss_thumbnails/addressresolutionprotocol-121115085659-phpapp01-thumbnail-4.jpg?cb=1352969854)
 
 This protocol operates in the Data Link layer of the OSI model.
+
 ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/computer-network-osi-model-layers.png)
 
 In theory, an ARP should:
@@ -30,6 +32,11 @@ Two types of ARP attacks exist.
 ![alt_text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ARP_Spoofing.svg/1200px-ARP_Spoofing.svg.png)
 
 The goal is to link a hacker's MAC with the LAN. The result means any traffic sent to the compromised LAN will head to the attacker instead. Effectively this is like a man in the middle attack.
+
+## What is required to conduct a successful attack?
+- The attacker requires a direct connection to the LAN network or control over a machine that is connected to the network
+- Skill to be able to create and modify packets rapidly in order to successully spoof their way into the system
+- Above all, it requires patience and time, because an attacker will 1st need to map out the network in order to determine the MAC addresses of machines connected over the network as well as what the traffic on the network generally looks like in order to better blend in and avoid detection
 
 ## What can a successful APR poisoning result in?
 
