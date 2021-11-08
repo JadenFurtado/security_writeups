@@ -3,10 +3,10 @@
 # ARP poisoning
 
 ## Introduction:
-Just a writeup on ARP poisoning, based on everything that I know and have studied about the Address Resolution Protocol (ARP) to help me retain my knowledge.
+I have been geeking out on network security lately and so, here is a writeup on ARP poisoning, based on everything that I know and have studied about the Address Resolution Protocol (ARP) and it's vulnerabilities to help me retain my knowledge.
 
 ## What is ARP?
-ARP is short for address resolution protocol. It is generally used by the IPv4 protocol. As the name suggests, it is used to convert the IP address of a machine to it's MAC address. 
+ARP is short for address resolution protocol. It is generally used by the IPv4 internet suite. As the name suggests, it is used to convert the IP address of a machine to it's MAC address. 
 
 ![alt text](https://cdn.slidesharecdn.com/ss_thumbnails/addressresolutionprotocol-121115085659-phpapp01-thumbnail-4.jpg?cb=1352969854)
 
@@ -50,7 +50,10 @@ If a hacker wants to take over an end host, the work must be done quickly. ARP p
 
 ### Reference:
 
+- https://doubleoctopus.com/security-wiki/threats-and-tools/address-resolution-protocol-poisoning/
 - https://www.okta.com/identity-101/arp-poisoning/
+- https://en.wikipedia.org/wiki/Address_Resolution_Protocol
+
 
 ### Credits:
 - SlideShare for the APR diagram
