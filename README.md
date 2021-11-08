@@ -6,13 +6,15 @@ I have always found hacking as an escape from stress and pressure, where I get t
 
 ## My writeups:
 
-### The bet: https://github.com/JadenFurtado/security_writeups/tree/main/the_bet
+### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_bet">The bet</a>
 
-### Anima creatives: https://github.com/JadenFurtado/security_writeups/tree/main/the_creatives
+### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_creatives">Anima creatives</a>
 
-### The medical company: https://github.com/JadenFurtado/security_writeups/tree/main/the%20medical%20company
+### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the%20medical%20company">The medical company</a>
 
-### Interesting requests: https://github.com/JadenFurtado/security_writeups/tree/main/interesting%20requests
+### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/interesting%20requests">Interesting requests</a>
+
+### <a href="https://github.com/JadenFurtado/security_writeups/blob/main/ARP%20poisoning/README.md">ARP poisoning</a>
 
 ## Just a few FAQs:
 
@@ -27,10 +29,6 @@ I am currently into hacking websites, servers and web-based technologies. That b
 ### Why do I do this?
 
 I do this because I can and for fun. I try not to do this for profit or for any recognition. That being said, if money or recognition does come my way, I won’t say no! 
-
-### How good am I?
-
-I am not the best or an expert at any of this. Just learning and picking up everything that I can
 
 ### Have I ever committed a cybercrime?
 
@@ -47,4 +45,4 @@ Yes, I have written a few viruses. You can find the repository of one such virus
 
 ### Am I open to pentesting for your company/corporation?
 
-Cyrrently I am working with R.U.D.R.A. secure( https://rudrasecure.com/ ), a cybersecurity startup, based in Mumbai. But yes, Sure. Let's trade emails! Contact me at furtadojaden@gmail.com  .
+Cyrrently I am working with R.U.D.R.A. secure( https://rudrasecure.com/ ), a cybersecurity startup, based in Mumbai. But yes, Sure. Let's trade emails! Contact me over twitter at @furtado_jaden
