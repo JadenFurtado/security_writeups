@@ -3,7 +3,7 @@
 # ARP poisoning
 
 ## Introduction:
-I have been geeking out on network security lately and so, here is a writeup on ARP poisoning, based on everything that I know and have studied about the Address Resolution Protocol (ARP) and it's vulnerabilities to help me retain my knowledge.
+I have been geeking out on network security lately and so, here is a writeup on ARP poisoning, based on everything that I know and have studied about the Address Resolution Protocol (ARP).
 
 ## What is ARP?
 ARP is short for address resolution protocol. It is generally used by the IPv4 internet suite. As the name suggests, it is used to convert the IP address of a machine to it's MAC address. 
