@@ -16,9 +16,11 @@ This protocol operates in the Data Link layer of the OSI model.
 
 In theory, an ARP should:
 
-Accept requests. A new device asks to join the local area network (LAN), providing an IP address. 
-Translate. Devices on the LAN don't communicate via IP address. The ARP translates the IP address to a MAC address. 
-Send requests. If the ARP doesn't know the MAC address to use for an IP address, it sends an ARP packet request, which queries other machines on the network to get what's missing. 
+- Accept requests: 
+A new device asks to join the local area network (LAN), providing an IP address. 
+- Translate: Devices on the LAN don't communicate via IP address. The ARP translates the IP address to a MAC address. 
+- Send requests: If the ARP doesn't know the MAC address to use for an IP address, it sends an ARP packet request, which queries other machines on the network to get what's missing. 
+
 This functionality saves network administrators a lot of time. Requests are handled behind the scenes, and the network does all the cleanup required.
 
 ## What is ARP poisoning and ARP spoofing?
