@@ -2,9 +2,9 @@
 
 ![Alt text](https://github.com/JadenFurtado/JadenFurtado/blob/main/giphy.gif?raw=true)
 
-I have always found hacking as an escape from stress and pressure, where I get to write the rules and others play by them. Also, it is really cute to see peoples reactions when they ask me what I do in my past time! Goes without saying, I have never used my skills to cause anyone damage or harm in anyway. I have hacked numerous websites as part of pen tests, for fun and to pass time. I have done everything from SQL injections, XSS, CSRFs to exploiting business logic errors and I have taken down quite a few corporations (I can’t name any, given my NDAs with said corporations) software and websites.
+Currently into hacking web based tech, but I am moving into network security and Machine level binary exploitation. These are some of my writeups on some interesting hacks that I have been able to do over the years. Enjoy :)
 
-## My writeups:
+## Links to My writeups:
 
 ### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_bet">The bet</a>
 
