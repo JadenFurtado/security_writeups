@@ -2,9 +2,9 @@
 
 ## Introduction:
 
-I have been feeling down in the dumps from the past few months, so I decided to go rouge as a hacker! 
+I have been feeling down in the dumps from the past few months, so I decided to go rouge as a hacker to shake things up a bit. Needless to say, this is just to get myself back in working order. 
 
-Needless to say, this is just for fun and to get myself back in working order. Note to the reader: <b>Do not abuse any of my findings</b>
+Note to the reader: <b>Do not abuse any of my findings</b>
 
 ## Let's start hacking!
 
