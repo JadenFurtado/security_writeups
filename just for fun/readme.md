@@ -57,7 +57,7 @@ I have cropped out the sensitive part. This is so easily avoidable, if all you d
 
 ### Type 4: Online Cameras
 
-While the idea of having a camera over the internet is for it to be easiy accessable, I am pretty certain, you don't want to grant a hacker access to security cameras!
+While the idea of having a camera over the internet is for it to be easily accessable, I am pretty certain, you don't want to grant a hacker access to security cameras!
 
 Using google to search         intitle:"webcamxp" "Flash JPEG Stream"      and then clicking on the options, you can see that I now have access to the live stram of a camera
 
