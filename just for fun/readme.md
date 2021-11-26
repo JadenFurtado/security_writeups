@@ -31,6 +31,8 @@ Because of something called spooling. It is essentially a buffer that is used by
 
 Spooling is notorious for buffer overflow vulnerabilities. I won't exploit this as I said before, only me disclosing vulnerabilities.
 
+* If you do want to see how printers are exploited, check <a href="https://www.trendmicro.com/vinfo/in/threat-encyclopedia/vulnerability/164/buffer-overflow-in-print-spooler-vulnerability">this article</a> out
+
 ### Type 2 vulnerabilities: Incorrect configuration of web applications
 
 Again, we will use google and search something along the lines of: " db_password filetype:env "
@@ -41,7 +43,7 @@ Clicking on one of the results that we get:
 
 I cropped out part of the password, but you can see that this application has been left with debug mode on as well as is disclosing the email-id and password of the sys-admin!🤦‍♂️
 
-You can google the term I showed and see what all you can find. Again, no exploitation, just disclosure
+You can google the term I showed and see what all you can find. Again, no exploitation, just disclosure.
 
 ### Type 3: Password files exposed over the inernet
 
@@ -51,6 +53,18 @@ Just google the term  inurl:/wp-content/uploads/ ext:txt "username" | "user name
 
 ![image](https://user-images.githubusercontent.com/52862591/143564935-8137f0a0-a3f1-43b4-bee7-c08ca53354cc.png)
 
-This is so easily avoidable, if all you do is keep the password file outside the website's root directory. Such a shame....
+I have cropped out the sensitive part. This is so easily avoidable, if all you do is keep the password file outside the website's root directory. Such a shame....
 
+### Type 4: Plane boarding pass
 
+Okay, while this is not exactly hacking and more of OSINT, I want to show why it is a terrible idea to post a picture of your boarding pass anywhere
+
+Just google    "boarding pass" site:http://tripadvisor.com       and go to the image section of the search results
+
+![image](https://user-images.githubusercontent.com/52862591/143566381-b3485317-e8ad-4dff-9b47-ac2c73adcb38.png)
+
+You can try and decode the information present in the barcode using a simple barcode scanner app on your phone. I am pretty certain you do not want all that falling into the hands of a hacker or someone looking to play the fool with you
+
+As I won't be doing any exploitation, you can read more <a href="https://krebsonsecurity.com/2015/10/whats-in-a-boarding-pass-barcode-a-lot/">over here</a>
+
+### Type 5: 
