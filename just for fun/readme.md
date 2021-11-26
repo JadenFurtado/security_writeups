@@ -63,7 +63,7 @@ Using google to search         intitle:"webcamxp" "Flash JPEG Stream"      and t
 
 ![image](https://user-images.githubusercontent.com/52862591/143568593-40f17143-59dd-464f-8285-7df644c78141.png)
 
-I believe the above is of a european street. But we can see other stuff too like of this from security cameras on light poles as shown below
+I believe the above is of a european street. But we can see other stuff too like from security cameras on light poles as shown below
 
 ![image](https://user-images.githubusercontent.com/52862591/143569179-75df857e-d387-4b55-8ec3-7beb541f6836.png)
 
