@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-I have been feeling down in the dumps from the past few months, so I decided to go rouge as a hacker to shake things up a bit. Needless to say, this is just to get myself back in working order. 
+I have been feeling down in the dumps from the past few months, so I decided to shake things up a bit with this article. Needless to say, this is just to get myself back in working order. I won't be exploiting any of these.
 
 Note to the reader: <b>Do not abuse any of my findings</b>
 
