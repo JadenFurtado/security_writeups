@@ -2,9 +2,9 @@
 
 ## Introduction:
 
-I don't usually do this kind of public disclosure, but to be honest, I have been struggling with myself over the past few months and I feel like I am losing control over my mind. So, what better way to flip things than by going rouge as a hacker! 
+I have been feeling down in the dumps from the past few months, so, what better way to flip things than by going rouge as a hacker! 
 
-Needless to say, this is just for fun and to get myself back in working order. Note to myself and others: Do not abuse any of these findings
+Needless to say, this is just for fun and to get myself back in working order. Note to the reader: Do not abuse any of my findings
 
 ## Let's start hacking!
 
@@ -55,7 +55,24 @@ Just google the term  inurl:/wp-content/uploads/ ext:txt "username" | "user name
 
 I have cropped out the sensitive part. This is so easily avoidable, if all you do is keep the password file outside the website's root directory. Such a shame....
 
-### Type 4: Plane boarding pass
+### Type 4: Online Cameras
+
+While the idea of having a camera over the internet is for it to be easiy accessable, I am pretty certain, you don't want to grant a hacker access to security cameras!
+
+Using google to search         intitle:"webcamxp" "Flash JPEG Stream"      and then clicking on the options, you can see that I now have access to the live stram of a camera
+
+![image](https://user-images.githubusercontent.com/52862591/143568593-40f17143-59dd-464f-8285-7df644c78141.png)
+
+I believe the above is of a european street. But we can see other stuff too like of this from security cameras on light poles as shown below
+
+![image](https://user-images.githubusercontent.com/52862591/143569179-75df857e-d387-4b55-8ec3-7beb541f6836.png)
+
+I don't think I need to explain why this is really bad!
+
+The best way to stop unauthorized access is to use .htaccess to configure the endpoint
+
+
+### Type 5: Plane boarding pass
 
 Okay, while this is not exactly hacking and more of OSINT, I want to show why it is a terrible idea to post a picture of your boarding pass anywhere
 
@@ -63,8 +80,10 @@ Just google    "boarding pass" site:http://tripadvisor.com       and go to the i
 
 ![image](https://user-images.githubusercontent.com/52862591/143566381-b3485317-e8ad-4dff-9b47-ac2c73adcb38.png)
 
-You can try and decode the information present in the barcode using a simple barcode scanner app on your phone. I am pretty certain you do not want all that falling into the hands of a hacker or someone looking to play the fool with you
+You can try and decode the information present in the barcode using a simple barcode scanner app on your phone. I am pretty certain you do not want all that falling into the hands of a hacker or someone looking to play the fool with you.
 
 As I won't be doing any exploitation, you can read more <a href="https://krebsonsecurity.com/2015/10/whats-in-a-boarding-pass-barcode-a-lot/">over here</a>
 
-### Type 5: 
+
+
+There still are a ton of things that I want to show, but that will be for another writeup.
