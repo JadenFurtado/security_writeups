@@ -6,6 +6,7 @@
 ### Storing passwords in plain text:
 Please don't store passwords in plain texts 🙏. 
 
+![image](https://www.savethestudent.org/uploads/easy-password.jpg)
 
 ### Storing password hints and plain text password next to the hash:
 The skill and genius required for this is out of this world and yet I have come across this in real life!
