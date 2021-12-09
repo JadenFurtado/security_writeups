@@ -30,4 +30,4 @@ General rule of thumb in coding, do not trust your users! You never know what th
 
 While using a WAF is good and all, depending on it alone is not good enough. Why? see the below gif
 
-![image](https://user-images.githubusercontent.com/52862591/145397343-c9eeb68d-7161-470e-b123-a40b80fcd891.png)
+![Firewall Vs Hacker](https://i.makeagif.com/media/3-19-2018/Dm3nrC.gif)
