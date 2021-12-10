@@ -1,7 +1,7 @@
 # Let's talk common sense in cybersecurity and software development,
 ## because common sense is not that common!
 
-These are taken from my past experiences. Over the years, I have had to deal with increasingly stupid people, who refuse to do what is needed and end up exposing themselves as well as others, which for me, is the most frustrating thing ever.
+These are taken from my past experiences. Over the years, I have had to deal with increasingly stupid people, who refuse to do what is needed and end up exposing themselves as well as others, which for me, is the most frustrating thing ever. This is just me showing their mistakes and how to solve them
 
 ### Storing passwords in plain text:
 Please don't store passwords in plain texts 🙏. 
@@ -37,3 +37,6 @@ General rule of thumb in coding, do not trust your users! You never know what th
 While using a WAF is good and all, depending on it alone is not good enough. Why? see the below gif
 
 ![Firewall Vs Hacker](https://i.makeagif.com/media/3-19-2018/Dm3nrC.gif)
+
+<a href="https://www.tek-tools.com/security/what-is-an-intrusion-detection-system-ids">Here is an article on how to set up an IDE</a>
+
