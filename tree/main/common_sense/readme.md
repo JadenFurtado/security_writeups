@@ -30,7 +30,7 @@ General rule of thumb in coding, do not trust your users! You never know what th
 
 ![image](https://user-images.githubusercontent.com/52862591/145395094-78f6b133-cdb2-401d-abc6-2d34680401df.png)
 
-### How to sanitize user inputs?
+#### How to sanitize user inputs?
 <a href="https://www.esecurityplanet.com/endpoint/prevent-web-attacks-using-input-sanitization/">Here is an article on that</a>
 ### Depending on a WAF to shield against an intrusion
 
