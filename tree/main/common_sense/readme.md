@@ -17,7 +17,7 @@ Why even bother to hash the passwords in the 1st place if you are storing the pl
 
 ### Returning sensitive information to all users:
 Just fetching information and not displaying it does not make an application secure! It just hides the information from the regular user, that's all.
-Below is an example that discloses the IP, Pan card number, Address, mobile number, password, email-id and a ton of other data
+Below is a real example that discloses the IP, Pan card number, Address, mobile number, password, email-id and a ton of other data
 
 ![image](https://user-images.githubusercontent.com/52862591/145393931-b8f122e4-58e5-44b6-b870-55455b4e0e8f.png)
 
