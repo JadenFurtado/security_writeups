@@ -4,6 +4,8 @@
 
 Currently into hacking web based tech, but I am moving into network security and Machine level binary exploitation. These are some of my writeups on some interesting hacks that I have been able to do over the years. Enjoy :)
 
+<b>Please note: I do not support or endorse any criminal activity. DO NOT abuse any of the knowledge that I am sharing!</b>
+
 ## Links to My writeups:
 
 ### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_bet">The bet</a>
