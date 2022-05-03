@@ -10,7 +10,7 @@ Currently into hacking web based tech, but I am moving into network security and
 
 ### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_bet">The bet</a>
 
-### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_creatives">Anima creatives</a>
+### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_creatives">The modeling agency</a>
 
 ### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the%20medical%20company">The medical company</a>
 
