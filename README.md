@@ -47,4 +47,4 @@ Yes, I have written a few viruses. You can find the repository of one such virus
 
 ### Am I open to pentesting for your company/corporation?
 
-Cyrrently I am working with R.U.D.R.A. secure( https://rudrasecure.com/ ), a cybersecurity startup, based in Mumbai.
+Currently I am working with R.U.D.R.A. secure( https://rudrasecure.com/ ), a cybersecurity startup, based in Mumbai as an offensive security engineer. Let's trade emails!
