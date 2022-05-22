@@ -10,7 +10,7 @@ Currently into hacking web based tech, but I am moving into network security and
 
 ### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_bet">The bet</a>
 
-### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_creatives">The modeling agency</a>
+### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_creatives">The agency</a>
 
 ### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the%20medical%20company">The medical company</a>
 
@@ -43,7 +43,7 @@ To be honest, I am the kind of guy who is generally shy and who does not like an
 
 ### Have I written malware?
 
-Yes, I have written a few viruses. You can find the repository of one such virus in my github account.
+Yes, I have written a few viruses. You can find the repository of one such virus <a href="https://github.com/JadenFurtado/php_virus">Here</a>.
 
 ### Am I open to pentesting for your company/corporation?
 
