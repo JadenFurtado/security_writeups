@@ -8,11 +8,7 @@ Currently into hacking web based tech, but I am moving into network security and
 
 ## Links to My writeups:
 
-### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_bet">The bet</a>
-
 ### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the_creatives">The agency</a>
-
-### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/the%20medical%20company">The medical company</a>
 
 ### <a href="https://github.com/JadenFurtado/security_writeups/tree/main/interesting%20requests">Interesting requests</a>
 
