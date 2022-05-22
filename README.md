@@ -14,6 +14,8 @@ Currently into hacking web based tech, but I am moving into network security and
 
 ### <a href="https://github.com/JadenFurtado/security_writeups/blob/main/ARP%20poisoning/README.md">ARP poisoning</a>
 
+### Find more of my writeups <a href="https://medium.com/@furtadojaden">Here</a>, on Medium
+
 ## Just a few FAQs:
 
 ### Am I real hacker or just a script kiddie?
