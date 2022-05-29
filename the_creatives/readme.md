@@ -29,5 +29,5 @@ Though the API endpoints are now being sanitized, and an SQL injection is no lon
 ## -----------THE-END----------
 
 ## Final thoughts:
-To be honest, I am rather sad with the way this has turned out 😭😭😭. Part of it is my fault and I accept that, but part of it is beyond my control. There is just so, so much more that happened, that I want to write and share that I will never be able too. More importantly however, I failed and haven't really changed anything at all despite all of my best efforts. I guess some things are best left untouched.
+To be honest, I am rather sad with the way this has turned out 😭😭😭. Part of it is my fault, me being too naive and I accept that. But the other part of it is beyond my control. There is just so, so much more that happened, that I want to write about and share that I will never be able too. More importantly however, I failed and haven't really changed anything at all despite all of my best efforts. I guess some things are best left untouched.
 
