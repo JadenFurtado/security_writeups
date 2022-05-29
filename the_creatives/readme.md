@@ -28,3 +28,6 @@ Though the API endpoints are now being sanitized, and an SQL injection is no lon
 ### 9th Dec 2021, one last push from my side to get the fact of existing critical vulnerabilities across before I permanently shelve this. It does not work, and so, I will no longer be putting any more effort and time into this. 
 ## -----------THE-END----------
 
+## Final thoughts:
+To be honest, I am rather sad with the way this has turned out 😭😭😭. Part of it is my fault and I accept that, but part of it is beyond my control. There is just so, so much more that happened, that I want to write and share that I will never be able too. More importantly however, I failed and haven't really changed anything at all despite all of my best efforts. I guess some things are best left untouched.
+
