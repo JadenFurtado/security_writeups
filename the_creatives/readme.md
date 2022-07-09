@@ -26,6 +26,6 @@ Though the API endpoints are now being sanitized, and an SQL injection is no lon
 ### 8th Feb 2021, while poking about the site, I end up getting username and password and login as admin
 ### 10th Feb 2021, HHHHHH is informed again, this time with the new findings. They finally fix the vulnerabilities, but again don't respond to my mails!
 ### 9th Dec 2021, one last push from my side to get the fact of existing critical vulnerabilities across before I permanently shelve this. It does not work, and so, I will no longer be putting any more effort and time into this. 
-### After previously having given up, I have changed my mind and am actively working on a fix for this :)
+### 9th July 2022, After previously having given up, I have changed my mind and am actively working on a fix for this :)
 
 
