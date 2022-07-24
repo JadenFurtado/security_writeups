@@ -5,6 +5,7 @@
 Currently into hacking web based tech, but I am moving into network security and Machine level binary exploitation. These are some of my writeups on some interesting hacks that I have been able to do over the years. Enjoy :)
 
 <b>Please note: I do not support or endorse any criminal activity. DO NOT abuse any of the knowledge that I am sharing!</b>
+Also: Please don't judge my spellings, I have sucked at them since my school days!
 
 ## Links to My writeups:
 
