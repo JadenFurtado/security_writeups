@@ -10,13 +10,11 @@ The website used an API to display images of the models. However, the inputs wer
 
 <img src="https://github.com/JadenFurtado/security_writeups/blob/main/the_creatives/admin.jpg" style="-webkit-filter: blur(4px); filter: blur(4px); "/>
 
-### Ofcource, these are now fixed and Md5 is no longer being used!
+### Ofcource, these are now fixed!
 
 ## Full writeup : https://github.com/JadenFurtado/security_writeups/blob/main/the_creatives/Case%20Study-edit.pdf
 
-### However, this is not all. I have not included this section in the writeup. Bit of a rant coming up!
-
-Though the API endpoints are now being sanitized, and an SQL injection is no longer possible, the site as a whole is still insecure. There are still vulnerabilities(I have not included these in the writeup) that have not been fixed till date. I have been begging them to fix the issues for well over 2 years now (It goes way back to 2019. I did not even ask for something silly like money/bug-bounty or a hall of fame, btw! I openly and responsibly disclosed all the vulnerabilities I found and they didn't have the decency to respond to me, or acknowledge my mails even once) and so, if anyone from HHHHHHH is reading this, fix your website and reply to mails!
+I am rather disappointed that the agencies involved in this were not proactive in ensuring the safety of those associated with them.
 
 ## Timeline
 
