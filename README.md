@@ -5,7 +5,7 @@
 Currently into hacking web based tech, but I am moving into network security and Machine level binary exploitation. These are some of my writeups on some interesting hacks that I have been able to do over the years. Enjoy :)
 
 <b>Please note: I do not support or endorse any criminal activity. DO NOT abuse any of the knowledge that I am sharing!</b>
-Also: Please don't judge my spellings, I have sucked at them since my school days!
+
 
 ## Links to My writeups:
 
@@ -15,7 +15,7 @@ Also: Please don't judge my spellings, I have sucked at them since my school day
 
 ### <a href="https://github.com/JadenFurtado/security_writeups/blob/main/ARP%20poisoning/README.md">ARP poisoning</a>
 
-### Find more of my writeups <a href="https://medium.com/@furtadojaden">Here</a>, on Medium
+### Find more of my writeups <a href="https://medium.com/@furtadojaden">Here, on Medium</a>
 
 ## Just a few FAQs:
 
@@ -44,6 +44,3 @@ To be honest, I am the kind of guy who is generally shy and who does not like an
 
 Yes, I have written a few viruses. You can find the repository of one such virus <a href="https://github.com/JadenFurtado/php_virus">Here</a>.
 
-### Am I open to pentesting for your company/corporation?
-
-Currently I am working with R.U.D.R.A. secure( https://rudrasecure.com/ ), a cybersecurity startup, based in Mumbai as an offensive security engineer. Let's trade emails!
