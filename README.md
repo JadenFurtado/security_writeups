@@ -14,7 +14,11 @@ Currently into hacking web based tech, but I am moving into network security and
 
 ### <a href="https://github.com/JadenFurtado/security_writeups/blob/main/ARP%20poisoning/README.md">ARP poisoning</a>
 
-### <a href="https://medium.com/p/63bec50b20ef/">Hacking Starbucks India, to prove a point to myself</a>
+### <a href="https://docs.google.com/document/d/1fxDAvJgo9gJmiVNjpBgGYc5ry4OXM7T850XmUzutaMI/">Hacking Starbucks India, to prove a point to myself</a>
+
+### <a href="https://medium.com/@furtadojaden/how-i-helped-secure-townscript-and-nullcon-for-fun-669705ce4aa9">Helping secure NullCon and Townscript for fun!</a>
+
+### <a href="https://medium.com/@furtadojaden/what-lies-behind-a-url-c5c14da98d37">What lies behind a URL (When an SQLi exposes millions)</a>
 
 ### Find more of my writeups <a href="https://medium.com/@furtadojaden">Here, on Medium</a>
 
